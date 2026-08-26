@@ -1,0 +1,29 @@
+# System and editor files
+.DS_Store
+*.swp
+*.swo
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.dev.vars
+
+# JavaScript dependencies and build output
+node_modules/
+.pnpm-store/
+.next/
+dist/
+.wrangler/
+coverage/
+*.log
+
+# Document and slide rendering intermediates
+.docx_assets_talk_town_mvp/
+.docx_qa/
+*.inspect.ndjson
+ppt-build/rendered/
+ppt-build/final-montage.png
+ppt-build/deck-montage.webp
+Talk-Town-项目基础功能与框架-小组会议/
+

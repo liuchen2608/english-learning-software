@@ -1,0 +1,15 @@
+Talk Town 小组会议演示文稿——来源记录
+
+内部资料：
+1. /Users/m4air/Documents/ChatGPT/英语学习软件开发/Talk-Town-完整AI产品PRD-v1.0.md
+   用途：产品定位、MVP范围、核心流程、技术架构、评测指标、里程碑。
+2. /Users/m4air/Documents/ChatGPT/英语学习软件开发/Talk-Town-AI技术选型官方资料研究-2026-08-22.md
+   用途：技术选型依据；本演示仅采用PRD已确定的结论，不展开供应商价格细节。
+3. /Users/m4air/Documents/ChatGPT/英语学习软件开发/talk-town-web
+   用途：当前高保真前端Demo及页面截图。
+4. /Users/m4air/Documents/ChatGPT/英语学习软件开发/talk-town-web/public/og.png
+   用途：封面品牌视觉；为Talk Town项目生成的原创分享图。
+
+外部资料：无。
+
+说明：演示中的产品结论、目标用户、功能范围、技术框架和里程碑均来自上述内部文档；没有使用未经验证的市场规模或效果数据。
